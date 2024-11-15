@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: HelloWorld
+  annotations:
+    github.com/project-slug: MolkoBelen/HelloWorld
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
